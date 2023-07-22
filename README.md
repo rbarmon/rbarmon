@@ -8,6 +8,7 @@ I'm passionate about the intersection of Web Development and Data Science, and h
 As a web developer, I love building immersive and user-friendly web experiences that captivate audiences. What excites me most is leveraging data science to enhance projects and make them highly effective.
 
 Tech: JS, TypeScript, React, Redux, Python, Java, OOP, RDBMS, SQL
+
 Languages: English, Japanese
 
 - 🌱 I’m currently learning and working on React Web Development and Data Science
