@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rian Barrett.
+I'm Rian Barrett/Kawahara.
 
 I am a Bachelor of Computer Science student at Monash University.
 
