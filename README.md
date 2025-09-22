@@ -1,19 +1,15 @@
 ### Hi there 👋
+I'm Rian
 
-I'm Rian 
+I am a Computer Science graduate from Monash University and a full-stack engineer with experience in SaaS product development, CRM integrations, and AI applications.
 
-I am a Bachelor of Computer Science student at Monash University.
+I’m passionate about creating impactful products at the intersection of web development and data-driven solutions. I enjoy building immersive, user-friendly experiences while leveraging data and AI to make systems more intelligent and effective.
 
-I'm passionate about the intersection of Web Development and Data Science, and how these fields can come together to create powerful and impactful projects.
-As a web developer, I love building immersive and user-friendly web experiences that captivate audiences. What excites me most is leveraging data science to enhance projects and make them highly effective.
-
-Tech: JS, TypeScript, React, Redux, Python, Java, OOP, RDBMS, SQL
-
+Tech: JavaScript, TypeScript, React, Redux, Kotlin, Node.js, Firebase, PostgreSQL, MongoDB, Python, Pandas, SQL
+CRM & Integrations: HubSpot, LINE Messaging API, Salesforce, Klaviyo
 Languages: English, Japanese
 
-- 🌱 I’m currently learning and working on React Web Development and Data Science
-
-
+- 🌱 I’m currently expanding my expertise in React, SaaS architecture, and applied AI to deliver scalable, growth-focused solutions.
 
 <!--
 **rbarmon/rbarmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
